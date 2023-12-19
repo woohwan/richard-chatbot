@@ -1,5 +1,0 @@
-openseach-py>= 2.4.2
-sagemaker>=2.200.1
-langchain>=0.0.350
-pypdf
-tiktoken
