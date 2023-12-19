@@ -1,1 +1,1 @@
-### AWS Bedrock Chatbot 연습
+### AWS Bedrock Chatbot
